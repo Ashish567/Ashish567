@@ -31,11 +31,6 @@ Welcome to my GitHub profile! I am Ashish Kumar Singh, a dedicated and versatile
   - 📚 Led the development of an interactive periodic table, enhancing user engagement.
   - 🎉 Created Women's Day puzzles, driving increased user participation.
 
-- **Optimized API Performance**:
-  - ⚡ Reduced API response times from ~500 ms to ~50 ms by implementing effective caching strategies using Redis.
-
-- **Advanced Product Discovery**:
-  - 🔍 Increased product discovery speed by 40% through advanced sorting and filtering with Elasticsearch.
 
 ## 📚 Continuous Learning
 
