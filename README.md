@@ -43,7 +43,7 @@ During a career break, I focused on upskilling in key areas:
 
 - **LinkedIn**: [linkedin.com/in/ashishkrsingh](https://www.linkedin.com/in/singhashish21/)
 - **Twitter**: [@ashishkrsingh](https://twitter.com/ashish21sim)
-- **Email**: [ashish@example.com](mailto:djdaydreamer.singh4@gmail.com)
+- **Email**: [ashishsingh@natkon.in](mailto:ashishsingh@natkon.in)
 
 ## 📜 License
 
